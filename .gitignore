@@ -4,6 +4,9 @@
 *.vcxproj
 *.vcxproj.filters
 
+include/
+lib/
+
 # Created by https://www.gitignore.io/api/visualstudio,visualstudiocode
 
 ### VisualStudioCode ###
